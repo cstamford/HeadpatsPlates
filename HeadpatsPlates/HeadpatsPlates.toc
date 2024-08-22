@@ -1,0 +1,31 @@
+## Interface: 110002
+## Title: HeadpatsPlates
+## Author: Lifekitten-TarrenMill
+## Dependencies: HeadpatsLib
+
+_Globals.lua
+
+HeadpatsPlates.lua
+HeadpatsPlatesEvents.lua
+HeadpatsPlatesLayout.lua
+HeadpatsPlatesProfiler.lua
+Nameplate.lua
+NameplateEvents.lua
+NameplateRotation.lua
+
+AreaData/StormwindDev.lua
+AreaData/ValdrakkenDev.lua
+AreaData/MythicPlus/AlgetharAcademy.lua
+AreaData/MythicPlus/CourtOfStars.lua
+AreaData/MythicPlus/HallsOfValor.lua
+AreaData/MythicPlus/RubyLifePools.lua
+AreaData/MythicPlus/ShadowmoonBurialGround.lua
+AreaData/MythicPlus/TempleOfTheJadeSerpent.lua
+AreaData/MythicPlus/TheAzureVault.lua
+AreaData/MythicPlus/TheNokhudOffensive.lua
+
+ClassData/Druid.lua
+ClassData/Paladin.lua
+ClassData/Priest.lua
+
+_Bootstrap.lua

@@ -1,0 +1,16 @@
+## Interface: 110002
+## Title: HeadpatsFrames
+## Author: Lifekitten-TarrenMill
+## Dependencies: HeadpatsLib
+
+_Globals.lua
+
+HeadpatsFrames.lua
+HeadpatsFramesEvents.lua
+HeadpatsFramesLayout.lua
+UnitFrame.lua
+UnitFrameEvents.lua
+
+ClassData/Druid.lua
+
+_Bootstrap.lua

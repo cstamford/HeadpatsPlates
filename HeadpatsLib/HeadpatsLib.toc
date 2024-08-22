@@ -1,0 +1,23 @@
+## Interface: 110002
+## Title: HeadpatsLib
+## Author: Lifekitten-TarrenMill
+
+Libs/LibStub.lua
+Libs/Libs.xml
+
+_Globals.lua
+
+Area.lua
+AuraCache.lua
+Colour.lua
+Frame.lua
+HeadpatsLib.lua
+Log.lua
+Spell.lua
+Traits.lua
+Util.lua
+UpdateTime.lua
+
+Interop/PixelGlow.lua
+
+_Bootstrap.lua
