@@ -1,6 +1,6 @@
 -- Global classes
 HeadpatsFrames = { }
-HeadpatsLib:InitLog(HeadpatsFrames, "HeadpatsFrames") -- Setup logging
+HeadpatsLib:InitLog(HeadpatsFrames, "HeadpatsFrames")
 
 -- Dev-only settings
 HeadpatsFrames.DevMode = false

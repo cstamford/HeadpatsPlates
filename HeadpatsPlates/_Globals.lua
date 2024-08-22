@@ -1,9 +1,9 @@
 -- Global classes
 HeadpatsPlates = { }
-HeadpatsLib:InitLog(HeadpatsPlates, "HeadpatsPlates") -- Setup logging
+HeadpatsLib:InitLog(HeadpatsPlates, "HeadpatsPlates")
 
 -- Dev-only settings
-HeadpatsPlates.DevMode = true
+HeadpatsPlates.DevMode = false
 HeadpatsPlates.DevCastTest = true
 HeadpatsPlates.DevCastSpellIds = { 381529, 315132, 398150, 398150, 398150, 398150, 398150, 398150, 398150, 398150, 398150, 398150  }
 HeadpatsPlates.DevCastTargetPlayer = false
