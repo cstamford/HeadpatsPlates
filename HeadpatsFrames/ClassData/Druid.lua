@@ -165,7 +165,7 @@ function HeadpatsFramesClassDruid:_NeedsRejuv(auras)
     local normalRejuv = self:_GetMyAura(auras, 774)
     local germRejuv = self:_GetMyAura(auras, 155777)
 
-    if not germRejuv and not HeadpatsLib:SpellKnown(155675) then
+    if not germRejuv and not IsPlayerSpell(155675) then
         germRejuv = { expirationTime = math.huge }
     end
 

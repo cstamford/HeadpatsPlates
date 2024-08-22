@@ -53,8 +53,3 @@ function HeadpatsLib:SpellReadyOrOnGCD(spell)
     local gcdDur = C_Spell.GetSpellCooldown(61304).duration
     return spellDur == 0 or spellDur <= gcdDur
 end
-
--- HeadpatsLib:SpellKnown
-function HeadpatsLib:SpellKnown(spell)
-    return C_Spell.GetSpellInfo(spell) ~= nil
-end
